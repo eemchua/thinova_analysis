@@ -12,7 +12,7 @@ This analysis explores performance insights for both one-time and subscription p
 
 ## Dataset
 
-Sales history was obtained from the e-commerce platform that supports the online store, including information about order number, revenue, date of purchase, type of purchased item, and more. [See dataset sample here](https://github.com/eemchua/thinova_analysis/blob/bd3be3d74f045ef6b166506febbc0583b03bd4b1/thinova_sample_dataset.csv). Google Excel was used to perform the initial data cleaning ([see changelog here](https://docs.google.com/spreadsheets/d/1v-fRLH4GvjFDNw6Q7OsAtCjtUmPPG4pTTXzGFgd3SFw/edit?usp=sharing)), and PostgreSQL was used to perform the remaining data cleaning and analysis ([see SQL code here](https://github.com/eemchua/thinova_analysis/blob/63471e360633b6a12438ae1eee663cf5bb9e1634/thinova_analysis.sql)).
+Sales history was obtained from the e-commerce platform that supports the online store, including information about order number, revenue, date of purchase, type of purchased item, and more (see dataset sample [here](https://github.com/eemchua/thinova_analysis/blob/bd3be3d74f045ef6b166506febbc0583b03bd4b1/thinova_sample_dataset.csv)). Google Excel was used to perform the initial data cleaning (see changelog [here](https://docs.google.com/spreadsheets/d/1v-fRLH4GvjFDNw6Q7OsAtCjtUmPPG4pTTXzGFgd3SFw/edit?usp=sharing)), and PostgreSQL was used to perform the remaining data cleaning and analysis (see SQL code [here](https://github.com/eemchua/thinova_analysis/blob/63471e360633b6a12438ae1eee663cf5bb9e1634/thinova_analysis.sql)).
 
 ## North Star Metrics
 
