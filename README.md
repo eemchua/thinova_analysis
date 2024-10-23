@@ -67,6 +67,7 @@ CR has seen significant spikes in **Q4 2022**, especially in the holiday season,
 ## Dashboard
 
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/ee.ming.chua/viz/shared/9YXQ25DD5). This dashboard enables users to filter by month and year. Below is a screenshot of the dashboard:
+
 ![Screenshot 2024-10-23 at 3 55 51 PM](https://github.com/user-attachments/assets/688d9aa8-6c1d-468a-9d37-b590ca3e22e3)
 
 ## Presentation
