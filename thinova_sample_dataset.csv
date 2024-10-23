@@ -1,0 +1,2 @@
+order_id,email,financial_status,paid_at,accepts_marketing,subtotal,shipping,taxes,total,discount_code,discount_amount,shipping_method,lineitem_quantity,lineitem_name,billing_name,billing_city,billing_zip,billing_province,billing_country,shipping_name,shipping_city,shipping_zip,shipping_province,shipping_country,payment_method,refunded_amount,risk_level
+#3039,sample@gmail.com,paid,2024-10-04,no,49.95,4.90,0.00,54.85,None,4.05,Standard,1,1 Bottle,John Smith,Chicago,60605,IL,US,John Smith,Chicago,60605,IL,US,Shopify Payments,0.00,Low
